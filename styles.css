@@ -37,3 +37,23 @@ nav ul li a:hover{
     border-radius: 40px;
     transition: transform .5s;
 }
+h1{
+    color:black;
+    font-size:75px;
+    margin:20px 0px 20px;
+}
+h3{
+    color:black
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+h4{
+    color:purple;
+    letter-spacing:2px;
+    font-size:40px;
+    .newsletter form{
+        width:380px;
+        max: width 100%;
+        position: relative;
+    }
+}
