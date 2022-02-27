@@ -139,7 +139,6 @@ body {display:flex;
 flex-direction:column;
 justify-content:center;
 min-height:100vh;}
-}
 .service{
     background: #101010;
     width:100%;
@@ -229,7 +228,7 @@ footer{
     width:100%;
     height:200px;
     background:lightseagreen;
-    display flex;
+    display flex:;
     flex-direction: column;
     align-items: center;
     justify-content: center;
