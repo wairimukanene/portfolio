@@ -196,5 +196,24 @@ min-height:100vh;}
     border: 2px solid #f9004d;
     cursor:pointer;
 }
+.Contact-Me{
+    width:100%;
+    height:100px;
+    background:lightseagreen;
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    justify-content:center;
+}
+.Contact-Me p{
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+}
+
+}
 
 
